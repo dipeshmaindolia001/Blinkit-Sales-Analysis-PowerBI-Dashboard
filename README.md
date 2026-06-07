@@ -23,6 +23,12 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ---
 
+## Dashboard Snapshot
+
+![Dashboard screenshot](image.png)
+
+> The screenshot above highlights the dashboard layout and key visualizations.
+
 ## Dashboard Analysis
 
 ### 1. Total Sales by Fat Content
@@ -121,6 +127,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 - Blinkit Sales Dashboard.pbix
 - Dataset (Excel/CSV)
 - Dashboard Screenshots
+- `image.png` — dashboard screenshot
 - README.md
 
 ---
